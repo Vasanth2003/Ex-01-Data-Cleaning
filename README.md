@@ -8,7 +8,6 @@ Data cleaning is the process of preparing data for analysis by removing or modif
 # ALGORITHM
 ## STEP 1
 Read the given Data
-
 ## STEP 2
 Get the information about the data
 
@@ -19,4 +18,20 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE
+/*
+hhh
+*/
+
+
 # OUPUT
+#Data Cleaning - Data_set.csv
+
+#Before Cleaning
+
+#Mode
+
+#Median
+
+#Mean 
+
+#After Cleaning
