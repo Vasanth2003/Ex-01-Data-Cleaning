@@ -65,22 +65,22 @@ data.isnull().sum()
 ~~~
 # OUPUT
 ## Data Cleaning - Data_set.csv
-![Data Cleaning](/images/Read.png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/Read.png)
 
 ## Before Cleaning
-![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/Before%20Cleaning%20(1).png)
 ![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/Before%20Cleaning%20(2).png)
-![Data Cleaning](/images/BeforeCleaning3.png)
-![Data Cleaning](/images/BeforeCleaning4.png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/Before%20Cleaning%20(3).png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/Before%20Cleaning%20(4).png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/Before%20Cleaning%20(5).png)
 
 ## Mode
-![Data Cleaning](/images/Mode.png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/Mode.png)
 
 ## Mean
-![Data Cleaning](/images/Mean'.png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/Mean'.png)
 
 ## Median
-![Data Cleaning](/images/median.png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/Median.png)
 
 ## After Cleaning
 ![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/After%20Cleaning.png)
