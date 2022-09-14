@@ -102,7 +102,7 @@ data.isnull().sum()
 ![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/median2.png)
 
 ## After Cleaning
-![Data Cleaning](/images/image4.png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/image4.png)
 
 
 # RESULT
