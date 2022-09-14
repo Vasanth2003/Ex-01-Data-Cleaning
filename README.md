@@ -86,20 +86,20 @@ data.isnull().sum()
 ![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/After%20Cleaning.png)
 
 ## Data Cleaning - Loan_data.csv
-![Data Cleaning](/images/image1.png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/image1.png)
 
 ## Before Cleaning
-![Data Cleaning](/images/image2.png)
-![Data Cleaning](/images/image3.png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/image2.pngg)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/image3.png)
 
 ## Mode
-![Data Cleaning](/images/mode2.png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/mode2.png)
 
 ## Mean
-![Data Cleaning](/images/mean2.png)
+![Data Cleaning]((https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/mean2.png)
 
 ## Median
-![Data Cleaning](/images/median2.png)
+![Data Cleaning]((https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/median2.png)
 
 ## After Cleaning
 ![Data Cleaning](/images/image4.png)
