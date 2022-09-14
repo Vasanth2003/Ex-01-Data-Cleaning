@@ -83,7 +83,7 @@ data.isnull().sum()
 ![Data Cleaning](/images/median.png)
 
 ## After Cleaning
-![Data Cleaning](/images/AfterCleaning.png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/After%20Cleaning.png)
 
 ## Data Cleaning - Loan_data.csv
 ![Data Cleaning](/images/image1.png)
