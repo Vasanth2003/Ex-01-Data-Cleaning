@@ -68,8 +68,8 @@ data.isnull().sum()
 ![Data Cleaning](/images/Read.png)
 
 ## Before Cleaning
-![Data Cleaning](/images/BeforeCleaning1.png)
-![Data Cleaning](/images/BeforeCleaning2.png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/Before%20Cleaning%20(1).png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/Before%20Cleaning%20(2).png)
 ![Data Cleaning](/images/BeforeCleaning3.png)
 ![Data Cleaning](/images/BeforeCleaning4.png)
 
