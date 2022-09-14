@@ -89,7 +89,7 @@ data.isnull().sum()
 ![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/image1.png)
 
 ## Before Cleaning
-![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/image2.pngg)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/image2.png)
 ![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/image3.png)
 
 ## Mode
