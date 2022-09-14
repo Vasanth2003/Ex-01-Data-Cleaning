@@ -96,10 +96,10 @@ data.isnull().sum()
 ![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/mode2.png)
 
 ## Mean
-![Data Cleaning]((https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/mean2.png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/mean2.png)
 
 ## Median
-![Data Cleaning]((https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/median2.png)
+![Data Cleaning](https://github.com/Vasanth2003/Ex-01-Data-Cleaning/blob/main/median2.png)
 
 ## After Cleaning
 ![Data Cleaning](/images/image4.png)
